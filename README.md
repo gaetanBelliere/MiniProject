@@ -1,5 +1,6 @@
 # MiniProject
-Textual entailment task - UiS data Mining project
+Textual entailment task - UiS data Mining project 
+(See the pdf in the repo for more details)
 
 This project is using a dataset from a Kaggle competition already closed : https://www.kaggle.com/c/fake-news-pair-classification-challenge/data
 And also the SNLI dataset, Samuel R. Bowman, Gabor Angeli, Christopher Potts, and Christopher D. Manning. 2015. A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP). Available here : https://nlp.stanford.edu/projects/snli/
