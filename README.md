@@ -25,7 +25,7 @@ Deep learning requires a good GPU to train the model, not always easy, even with
 
 # Methods used
 BERT, LSTM and GRU. 
-BERT achieved 86% accuracy on test data
+BERT achieved: 90% accuracy on training data - 86% accuracy on test data
 LSTM and GRU : 85% accuracy on training data - 73% accuracy on test data
 
 # Possible improvements
